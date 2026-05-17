@@ -1,0 +1,1110 @@
+[
+  {
+    "vote": "1oH9rfyrbKoP7ucJ1Zr2HLHmDU8N6G1G6dEuruFsSqy",
+    "name": "AINodes",
+    "score": 1,
+    "description": "AiSol is a community-driven initiative that supports early-stage decentralized AI projects on Solana. It operates a high-performance validator and issues Liquid Staking Tokens (LST), allowing SOL holders to earn staking rewards while keeping their assets liquid. Unlike traditional staking solutions, AiSol reinvests part of the validator’s rewards into funding promising AI startups through token allocations and incentives. This brings new developers, liquidity, and users into the Solana ecosystem, turning passive staking into active ecosystem growth.",
+    "links": [
+      {
+        "url": "http://aisol.fi/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD",
+    "name": "Art3mis.cloud",
+    "score": 1,
+    "description": "ART3MIS.CLOUD Datalab has been operating since 2016, with a core team that has collaborated for more than three decades, tracing its roots back to the FidoNet era. Our involvement in blockchain began with the early adoption of Proof of Stake. Over the years, we have contributed to PIVX Core, conducted extensive research on Avalanche, and delivered protocol-level insights for a range of clients.\nSince Solana mainnet epoch ~90, we have committed our infrastructure and research efforts primarily to Solana, focusing on institutional-grade reliability and strong decentralization principles values we have defended since the earliest days of the crypto ecosystem. Our infrastructure is fully self-managed: we operate in a colocation facility owned by our long-term partners, certified under PCI DSS and SOC 1/2/3 standards, with our own dedicated ASN (51088). This setup was established after a year of due diligence and network research across Asia, including Vietnam, Thailand, Singapore, and China.\nWe utilize Juniper high-frequency trading hardware and maintain direct datacenter backbone connectivity to ensure ultra-low latency networking. While much of our research tooling is proprietary, we have released open-source contributions to the community. Examples can be found on our GitHub page (https://github.com/a3mc), including the Vote Inclusion Analyzer. We also maintain community-facing projects such as Slowpoke, which is frequently referenced across Twitter and Discord.",
+    "links": [
+      {
+        "url": "https://art3mis.cloud/",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/Liquid369",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "bXr9MyoUAaGusQZ4gaUPmSZByHAV7RRGr1FhCW5tFh8",
+    "name": "bloXroute US",
+    "score": 1,
+    "description": "bloXroute offers a suite of cutting-edge tools and services to supercharge your blockchain experience. From the high-performance Blockchain Distribution Network (BDN) to the Solana Trader API, our products are designed to deliver unparalleled speed, reliability, and efficiency for traders, validators, dApps, and more.",
+    "links": [
+      {
+        "url": "https://bloxroute.com",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "DSzLJLUQD55sxaCsJBHLFSV1SYngMmT7oY8rLpFhyGgb",
+    "name": "bloXroute UE",
+    "score": 1,
+    "description": "bloXroute offers a suite of cutting-edge tools and services to supercharge your blockchain experience. From the high-performance Blockchain Distribution Network (BDN) to the Solana Trader API, our products are designed to deliver unparalleled speed, reliability, and efficiency for traders, validators, dApps, and more.",
+    "links": [
+      {
+        "url": "https://bloxroute.com",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "sShosKd6uA5c1ZpVMxdsE6do13TLRWSMYsXbSMmNC77",
+    "name": "Astralane",
+    "score": 1,
+    "description": "Astralane operates low latency Solana infrastructure, and the validator Dogo is part of that network. We focus on reliable block production, consistent uptime, and fast transaction propagation using our Iris peering client. Our stack is proprietary but built on top of open Solana standards. The validator is run by a dedicated ops and DevOps team with proper monitoring, failover, and reporting.",
+    "links": [
+      {
+        "url": "https://www.astralane.io/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "EATzgj3KL3NAkaSKv8JFXPJahGueMbvTdVZj4zD9nQiV",
+    "name": "EAT TRIBE",
+    "score": 1,
+    "description": "Community Owned Validator, that funds the community (NFT holders) and our current/future Developments and dApp's.",
+    "links": [
+      {
+        "url": "https://eatsol.online",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "Hx4UJCvf8amGeuW9fPFfTckRoznDHxPSYiU9HuUSZKLT",
+    "name": "Kairos Research",
+    "score": 1,
+    "description": "Kairos Research is a small market research and protocol service firm with previous work experience at Binance, Dune, Messari & Brevan Howard's Elwood Capital. It has worked closely on research, governance and validator projects with some of the largest protocols in crypto over the past two years. Some of our notable clients include Jito, Circle, EigenLayer, Aave, ether.fi & Babylon.",
+    "links": [
+      {
+        "url": "https://x.com/Kairos_Res",
+        "type": "twitter"
+      }
+    ]
+  },
+  {
+    "vote": "34mSDco9FM8599y4QF1GJvyWUrPixeT3zRNZAvzNXF6x",
+    "name": "Kolibrio",
+    "score": 1,
+    "description": "Kolibrio Orderflow Service is an RPC API that enables transaction originators to protect against toxic MEV, efficiently monetize incoming transactions and optimize on-chain execution.",
+    "links": [
+      {
+        "url": "http://kolibrio.xyz",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/apadenko",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "kyvvvkDpDCtSxQMPhzRhmv14DgUBVEGGzn8Dnb8ircP",
+    "name": "Kyzzen",
+    "score": 1,
+    "description": "Kyzzen is the ultimate discovery platform on Solana, where users can learn about and explore all the opportunities across tokens, NFTs, DeFi, DePIN, airdrops and more.",
+    "links": [
+      {
+        "url": "https://www.kyzzen.io/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "8cuBK2vJeqfukvSJQ2vaGDEBSnBoVD16L74SuHdnKjs8",
+    "name": "marcograss firedancer validator",
+    "score": 1,
+    "description": "I am a core dev and I work on security of Firedancer validator. I work in Asymmetric Research, I found and fixed numerous security bugs in firedancer and I helped making it more secure for everyone.",
+    "links": [
+      {
+        "url": "https://marcograss.github.io",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "novaoLcuVHSudkW3Cphuhiv82vspN5qzinGCtEbwQxz",
+    "name": "Nova Consortium",
+    "score": 1,
+    "description": "Nova Consortium is a project that focuses on academic education on solana. Our long term vision is to fund papers on solana which are related to academia. In this regard, we already have funded a paper on solana and are working on more to release soon. These papers take a while to publish, as we work with PHD/Masters level researchers.\nWe also focus on building tools in the meantime like Aegeon and Mercurion which are open source: https://github.com/NovaConsortium\nAegeon is a free tool that validator operators/stakers can use to get emailed, texted, called, etc.\nOur tool makes it easy to set these notifications up so concerned parties know immediately if their validator has gone delinquent.\n\nMercurion is our earnings tracker tool. We worked directly with firedancer devs to make a tool that shows when a validator gets a slot, and how much fees that slot has made them.\nAfter the epoch ends, our bot then shows exactly how much fees, comm and tips the validator has made. Our bot also factors in fees like dz fees and vault fees to show exactly how much a validator has made in any given epoch.\nAegeon and mercurion are open source tools that anyone can use to build upon\n\nWe also created 2 stats bots\nOne which is a DZ dashboard: https://dz.novaconsortium.org/\nWhich shows an estimate on how much your dz fees will be, and shows instructions on how to set up double zero for your validator, we were one of the first people to create a comprehensive dz dashboard\n\nThe other one is a stats dashboard: https://stats.novaconsortium.org/\nThis shows everything from all our tools: better and more accurate earnings by epoch, DPAs, validator location, and much more",
+    "links": [
+      {
+        "url": "https://novaconsortium.org/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "pt1LsjkNwqCKdYYfc35ToDkqtEG9pswLTJNaMo8inft",
+    "name": "ParaFi Technologies",
+    "score": 1,
+    "description": "ParaFi Technologies operates critical Solana infrastructure and uses validator earnings to fund community-focused initiatives. Our primary project is a free, public mainnet RPC endpoint—launched in February 2025 - with no rate limits or authentication requirements, providing reliable network access to developers and users. The endpoint is available at https://solana-rpc.parafi.tech.\n\nWe launched our mainnet validator in September 2024 and have maintained 100% uptime for the last 8 months while consistently improving performance, verifiable on stakewiz: https://stakewiz.com/validator/pt1LsjkNwqCKdYYfc35ToDkqtEG9pswLTJNaMo8inft. Validator earnings directly fund RPC infrastructure costs, operational tooling development, and technical documentation that we publish openly at https://parafi.tech/solana/rpc-stats and https://parafi.tech/solana/integration-guide. We also offer Solana network-wide stats at https://parafi.tech/solana/network-stats.\n\nOur long-term commitment is demonstrated through $50M-$100M in SOL exposure across multiple instruments and 5+ years of ecosystem participation dating back to 2020, including backing protocols like Kamino, SolFlare, Parcl, and Metaplex.",
+    "links": [
+      {
+        "url": "https://parafi.tech",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM",
+    "name": "meyerbro",
+    "score": 1,
+    "description": "Votalizer is a Rust-based watchdog for the Solana network that listens to the RPC PubSub WebSocket feed and tracks validator votes in real time. When it detects a lockout violation, it automatically writes a detailed incident log so operators and researchers can audit what happened. Some signatures noted in these logs may never show up on public explorers if they landed on a non-finalized fork—Votalizer captures them anyway.\nIt’s built for validator and infra operators: drop it alongside your RPC node, point it at the PubSub endpoint, and get instant alerts in your team channels via Slack or Discord webhooks. This makes it handy for operational monitoring today and for slashing-related research and tooling as Solana’s consensus evolves.",
+    "links": [
+      {
+        "url": "https://github.com/mvines/votalizer",
+        "type": "github"
+      },
+      {
+        "url": "https://t.me/meyerbro",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "PineDoC593nrX16W8ZLWfF5Evb6otv7fRfZMLjPAHe3",
+    "name": "Pine Stake",
+    "score": 1,
+    "description": "Pine Stake is a validator on the Solana blockchain, based in Brazil. Our mission is to strengthen decentralization in underrepresented regions while promoting education and onboarding in Web3. We focus on empowering local communities by providing resources for creators and developers.",
+    "links": [
+      {
+        "url": "https://t.me/jotadotsol",
+        "type": "telegram"
+      },
+      {
+        "url": "https://x.com/jotadotsol",
+        "type": "twitter"
+      }
+    ]
+  },
+  {
+    "vote": "GdVBPczdFaPf1GXvx8ByHeA1ZHAHwwmdQEPihH74SXm9",
+    "name": "Rossi",
+    "score": 1,
+    "description": "20+ years in IT operations, security, automation and administration of complex IT systems at big companies. I'm also a co-author of SV manager, an automation, monitoring and alerting solution for Solana Validator.",
+    "links": [
+      {
+        "url": "http://rossi-validator.ch",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "sagasJDjjAHND4hien3bbo5xXkzCT5Ss6nKjyUJ45aw",
+    "name": "Saga Mobile Dao",
+    "score": 1,
+    "description": "SagaDAO is a community-run DAO built around Solana Mobile (Saga + Seeker devices) that uses validator earnings to fund contributors, test new apps, host community and content events, and accelerate projects building on Solana. Our validator on mainnet is the revenue spine for the DAO — rewards are funneled into working groups, Innovation Labs, and our claim/rewards site (“Unlock”), and IRL content houses/events so we can support builders with real users, and continue as the largest and most sybil resistant DAO on Solana.\n\nIn the last 6 months we formalized three active working groups (Core Team, SagaDAO Alpha Club, Community Working Group) with 16 active contributors. We publish our governance, proposal flow, and contributor structure publicly in the SagaDAO Codex (GitBook above), and we maintain repos for DAO tooling / onboarding. Much of what we build (Unlock, contributor structure, Stake & Seed project incubation, Realms/Align governance flows, IRL and digital community events and content) is intended to uplift and contribute to the solana ecosystem.",
+    "links": [
+      {
+        "url": "https://sagamobiledao.com/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "sTach38ebT8jnGH8i2D1g8NDAS6An19whVMnSSWPXt4",
+    "name": "Stache Node",
+    "score": 1,
+    "description": "Stache Node is a community validator with reciprocal support from MoustacheDAO. We facilitate meetups and collaboration among a group of builders from projects such as Squads, Sanctum, Solflare, Baxus, Superteams, Chomp, Eyekon, Exo, Triton, Blueshift, and many more.",
+    "links": [
+      {
+        "url": "https://www.stachenode.com/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "bookLxG3LkSmt4htJ1x9zPw6E34RRMAi7sUn5mM3CNN",
+    "name": "The Library",
+    "score": 1,
+    "description": "The Library is a free-to-join community that aims to create research on promising solana protocols & helps founders build",
+    "links": [
+      {
+        "url": "https://www.thelibrary.vc/validator",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "steakxfubt37xYdvuXz7BV5Uhhhk1FyJx9zGHfDcTVr",
+    "name": "Steakhaus",
+    "score": 1,
+    "description": "The primary project is Fleetbot, an automation tool specifically designed for various versions of the StarAtlas game. Fleetbot significantly enhances the player experience by automating key in-game actions such as fleet refilling, mining, crafting, and marketplace interactions within Sage Labs and Starbased. It is designed to be highly flexible, available both as a hosted service and with multiple self-hosting options.\nBeyond its utility for productive game accounts, Fleetbot is also extensively used by community developers (both actively and passively) for developing and testing their applications on Atlasnet, our internal StarAtlas testnet. Another project is Atlasnet, which is a StarAtlas internal testnet. This testnet serves as a vital development playground for both the official StarAtlas team and numerous community developers, fostering innovation and ensuring the stability of applications built on the Solana blockchain within the ecosystem.",
+    "links": [
+      {
+        "url": "https://github.com/mindrunner/fleetbot",
+        "type": "github"
+      },
+      {
+        "url": "https://t.me/luman",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "ZoDVQ5zCgFyVm2Y6vHhZ6boQEZNV6sMVnefev4M2Bes",
+    "name": "Zodia Custody",
+    "score": 1,
+    "description": "Zodia Custody is an institutional-grade custodian backed by Standard Chartered Bank, providing secure and compliant access to the Solana ecosystem for regulated financial institutions. Its mission is to enable institutional engagement with digital assets, like SOL and SPL tokens, through trusted infrastructure that meets the highest standards of regulation, security, and operational excellence.\nZodia Custody currently offers native custody for SOL and is in the process of onboarding SPL tokens, broadening support for Solana-based assets. The platform is designed specifically for regulated institutions, with a focus on secure asset segregation, real-time reconciliation, and 24/7 availability.\nZodia Custody is majority-owned by Standard Chartered and backed by other leading global financial institutions including Northern Trust, Emirates NBD, National Australia Bank, and SBI Digital. Several of these shareholders are also active clients; for instance, Standard Chartered in the UAE and Emirates NBD’s LIV Bank both offer digital asset services powered by the platform.",
+    "links": [
+      {
+        "url": "https://zodia-custody.com/",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/stuart_zodia",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "ALPHAthakWdoUxXJP6z8cjCkwrufcARXqi34EjShtFVT",
+    "name": "Alphasearch",
+    "score": 2,
+    "description": "We are an on-chain market making and MEV searching team that aims to directly distribute as much value as possible to our stakers.\n\nAt this time, our core technologies are closed source, but in the past we have contributed to several core DeFi protocols in use today such as the Jupiter Perpetuals on-chain implementation.",
+    "links": [
+      {
+        "url": "alphasearch.xyz",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "Fhks5gukimP6vxKYbRY4V1aw888EgHhpdDSscD9V6bub",
+    "name": "CryptoVik",
+    "score": 2,
+    "description": "A public, non-commercial dashboard and dataset that tracks stake flows across all major Solana stake pools and stakeholders. It scans the cluster about every 5% of each epoch, normalizes results, and publishes snapshots, keeping historical data. Users can browse all pools across epochs and explore validators in detail, including their stake state per epoch, dynamics, and the set of pools they participate in. The search works cluster-wide for both pools and validators with combinable filters.\nThe code and data are open under permissive licenses. I maintain an open registry of pools and stakeholders and companion CLI tools that operators use in production. Roadmap: richer validator cards with per-epoch charts and expanded history views, followed by a Predictions module that estimates pool eligibility for each validator and highlights missing criteria.",
+    "links": [
+      {
+        "url": "https://cryptovik.info/solana-stakepools-dashboard/",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/vb_zp",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "dcntrKBwh8j5yL62Eg96Z5QjJWv3UXxMu4rqL82w6Cb",
+    "name": "Decentra",
+    "score": 2,
+    "description": "Decentra Cloud is a crypto infrastructure provider aiming to be the one-stop-shop for all things validator hosting. Decentra is currently hosted in Cape Town, offering further decentralization to the europe-concentrated network!\nWe are taking on a different approach to validator hosting by offering the user to own the server they host, by purchasing servers and having us host them in datacenters, for significantly lower monthly costs than other major providers out there. This creates an angle of benefit for people who are long-term aligned to solana validators, and those who want to own assets, instead of just renting them. I already run infrastructure for multiple validators.\nSome validators that I am currently hosting infra for include Stache Node, Charity Soul, Banx, Odyssey , Solana ID, Elemental, Nova Consortium, and so on! I also host Onyx Node RPC and used to host SharpAIO RPC. Addiitonally, my south africa infrastructure expansion dedicates 3 new validators in the SA region along with jagpool's support, and soon expanding to support 7 new validators joining the SA network!\nDecentra also wants to work on building validator tooling and dashboards that will merge the best tools that currently exist on solana infrastructure to create a one-stop dashboard for all things validator. The current open beta is present at https://stats.decentra.cloud/\nAbout the person behind this:\nHi! My name's Vijay, and I've been in the crypto space for well over 6 years, and in the Solana space for over 3 years. I have been heavily involved in the Solana ecosystem via Radiants DAO and their initiatives. I've been able to work closely alongside multiple initiatives such as ORE mining, building out guides for defi participation, running crypto minecraft servers, a voice channel recording bot, and working with other core contributors in the DAO helping with operations. I am also working on a new project that will utilize LST yields for charitable goods!",
+    "links": [
+      {
+        "url": "https://decentra.cloud",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "fdvtuDvWJZ89Z7TmeLjCwxgoLcmoEWNxruV48DvJtfm",
+    "name": "Firedancer Security Audit (Core Contributor)",
+    "score": 2,
+    "description": "I manage an external security audit for Firedancer. My work as a Core Contributor ensures the stability of the client and directly benefiting the ecosystem's resilience.",
+    "links": [
+      {
+        "url": "https://fd1.zip (validator website). Project website would be firedancer repository.",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "GREEDkgav1ox1jYyd9Anv6exLqKV2vYnxMw5prGwmNKc",
+    "name": "GREED Academy",
+    "score": 2,
+    "description": "GREED Academy is an onchain educational initiative, where 100% of the block rewards obtained from the GREED Validator are redirected toward funding educational content, activations and community learning programs about crypto.\n\nThe project runs open educational campaigns, activations, grants, and bounties that reward creators, developers, and educators for producing high-quality learning materials accessible to everyone. All lessons and resources are freely available to the public through our platform and social channels.\n\nAll GREED Academy educational content is published for free and can be shared encouraging reuse, translation, and remixing by the broader crypto community.",
+    "links": [
+      {
+        "url": "https://greed.academy/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "H2tJNyMHnRF6ahCQLQ1sSycM4FGchymuzyYzUqKEuydk",
+    "name": "Meria",
+    "score": 2,
+    "description": "Meria is an institutional-grade staking service provider running blockchain infrastructure on more than +35 networks.",
+    "links": [
+      {
+        "url": "https://meria.com",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "PUFFiNkUHF2DMfbKeUcYTSQckDDtkswfxZCDv5WQqwp",
+    "name": "Inclusion delays dashboard",
+    "score": 2,
+    "description": "Some issues currently prevent Solana from being more widely adopted by professional traders and institutional investors. One of these is that many validators artificially delay transactions to maximize their revenue. This undermines efforts to position Solana as the most efficient and fastest blockchain.\n\nTo shed light on this issue and measure its impact, we deployed a complex setup that sends transactions to all validators and estimates their inclusion delays.\nThe results are published in a public dashboard.",
+    "links": [
+      {
+        "url": "https://puffin-validator.xyz/inclusion_delays",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "burnn86ebxJnhtk3cfpHoZxy5nUaC3K9U8VwzgqhEEt",
+    "name": "Sol-Incinerator",
+    "score": 2,
+    "description": "We are the team behind SOL Incinerator, Solana’s original wallet cleanup utility. Launched in 2021, our dApp has been trusted by over 2.5 million cumulative unique wallets. It allows users to burn unwanted NFTs, compressed NFTs (cNFTs), and SPL tokens, as well as reclaim rent from closed token accounts. By simplifying wallet hygiene and unlocking trapped SOL, SOL Incinerator has become an essential tool for active traders, DeFi users, and the broader Solana community.",
+    "links": [
+      {
+        "url": "http://www.sol-incinerator.com/",
+        "type": "url"
+      },
+      {
+        "url": "https://x.com/solincinerator",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/yokedupfungi",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "sfo5vA1fFdPRsvqd8qdePtTnK97Qj6Jj3GupEzmNPjJ",
+    "name": "Soltop/Blockline",
+    "score": 2,
+    "description": "Soltop is a real-time analytics tool for Solana, like htop but for programs. It shows CU usage, failure rates, priority fees, and program behavior. It’s currently completly free, but I might create tiers to help with server costs. WIth the same infrastructure I started recently Blockline, which complements Soltop by inspecting intra-slot activity using PoH ticks, exposing MEV behavior and showing who interacted with the same pool right before and after a transaction.",
+    "links": [
+      {
+        "url": "https://soltop.sh/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "FgiteGaHbA22Wt4Quzv3muscQtvX7gzVwvUHbFnb3rTJ",
+    "name": "Sunren",
+    "score": 2,
+    "description": "Solana RPC/cloud service provider. It provides Solana RPC services with unmatched performance/reliability at an affordable cost to encourage more individuals to start developing on Solana. The most important metric in our opinion for predicting the long-term success of Solana is the increased number of new developers coming into the space.\nOur goal is to make it as easy as possible for developers so that they can focus on developing and not have to worry about RPC performance, hardware, and latency; all without breaking the bank. This is actually what made us come into this space as we felt that many other RPC node providers were overcharging or had performance issues.",
+    "links": [
+      {
+        "url": "https://www.solanavibestation.com/",
+        "type": "url"
+      },
+      {
+        "url": "https://github.com/Solana-Vibe-Station",
+        "type": "github"
+      },
+      {
+        "url": "https://discord.com/invite/27HQu4BdNz",
+        "type": "discord"
+      }
+    ]
+  },
+  {
+    "vote": "THWfRpcJSC7oDrNMSCcixTZmCHVBTEVQL4qnd1UTD1x",
+    "name": "TrulyHonestWork",
+    "score": 2,
+    "description": "The team behind THW Validator originally began as an NFT project called DeFi Degens (https://defidegens.io) and is operated in partnership with the community, which has a 25% equity stake in the validator. THW has made numerous ecosystem contributions both (a) through our partnership with the DeFi Degens community and (b) directly through the validator brand.\nWe founded DeFi Degens in February 2022 and in the 3+ years since mint we’ve curated an active, DeFi-focused community, hosted AMAs and spaces with countless defi protocols and NFT projects, hosted events for our holders at NFT NYC and other occasions, and supported community members in numerous ad-hoc initiatives (paid for Solana conference tickets, sponsored golf tournaments, sponsored a softball team, etc).\nWe’ve invested long-term in Solana projects like Lifinity, Kamino, Jupiter, etc., and have grown our Treasury by ~13x since launch while reducing our supply by 24%. Specific to THW, we’ve made two significant contributions to the validator community we'd like to highlight:\n\n(1) We created a free, public Grafana dashboard metric that we're self-hosting on our website at https://metrics.trulyhonestwork.io. We've received extremely positive feedback on this dashboard and have continuously expanded the validator set, now providing metrics for >20% of mainnet. It is entirely free and we add any nodes upon request. Here's a link to an additional twitter thread we did on it: https://x.com/trulyhonestwork/status/1938343697260670985\n\n(2) We also published a free, OSS toolkit for validator operators to Github called THW-NodeKit, which includes a Linux terminal-based Live TVC Tracker, functions to build Solana clients from source files (Agave, Jito, Firedancer), a robust failover/identity swap tool, snapshot download tools, and other utilities.\n\nLink to repo: https://github.com/nusoldi/thw-nodekit",
+    "links": [
+      {
+        "url": "https://trulyhonestwork.io/",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/nusoldi",
+        "type": "telegram"
+      },
+      {
+        "url": "https://twitter.com/nu_soldi",
+        "type": "twitter"
+      }
+    ]
+  },
+  {
+    "vote": "xLabsqDpN9WHXEXSJXk1yhqh5H8BgcqiBP1CR6Mkjcb",
+    "name": "xLabs",
+    "score": 2,
+    "description": "xLabs is a core contributor and Guardian to Wormhole, a decentralized interoperability protocol. We build open-source and infrastructure and public goods: Wormhole Scan (explorer & analytics), Automatic Relaying (autonomous message delivery), and the Wallet Aggregator SDK.",
+    "links": [
+      {
+        "url": "https://xlabs.xyz/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "adraBKLNY3DL3pg6SJRDYiMA8BsznaWpUdE42X41gbP",
+    "name": "Adrastea",
+    "score": 3,
+    "description": "We are restaking project with the community focus",
+    "links": [
+      {
+        "url": "https://adrastea.fi/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "4PL2ZFoZJHgkbZ54US4qNC58X69Fa1FKtY4CaVKeuQPg",
+    "name": "Block Parliament",
+    "score": 3,
+    "description": "Core dev at Anza, contributing to agave client and on-chain programs. Everything is open source.",
+    "links": [
+      {
+        "url": "https://www.blockparliament.com/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "9Gko8QZBbV5SrEvHKtQHcMrGGSfgFP3KJUozEGifu25x",
+    "name": "GateOmega (SolCircl)",
+    "score": 3,
+    "description": "SolCircl Mobile App in your pocket enables you to effortlessly track your investments, monitor validator status with ease and keep up with Solana news.",
+    "links": [
+      {
+        "url": "https://gateomega.com/solcircl/",
+        "type": "url"
+      },
+      {
+        "url": "https://x.com/gateomega",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/crypto_loki",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "HJmfKJjKiyuuxFUuXgecgD5gdD312apCpHwZt6ETuRMU",
+    "name": "Sandwiched.me",
+    "score": 3,
+    "description": "Sandwiched.me is a Solana MEV data hub by Ghost that tracks sandwich attacks (and other MEV) in real time via a public dashboard with 24h/7d/30d views and per-bot/validator stats, plus research reports and experimental dashboards.",
+    "links": [
+      {
+        "url": "http://sandwiched.me/",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/chris_grumpy_cat",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "mintrNtxN3PhAB45Pt41XqyKghTTpqcoBkQTZqh96iR",
+    "name": "Hanabi",
+    "score": 3,
+    "description": "We run the Staking Champions, which rewards users for directing stake to us. We also offer a range of dashboards on our website, as well as a sandwiching tracker.",
+    "links": [
+      {
+        "url": "https://hanabi.so",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "3Z1N2Fkfha4ThNiRwN8RnU6U8dkFJ92DH2TFyLWJf8cj",
+    "name": "LumLabs",
+    "score": 3,
+    "description": "LumLabs builds open-source, community-first infrastructure and tools for the Solana validator ecosystem. All of our products are free to use and publicly available, helping validators improve operations, transparency, and accessibility without lock-in or private advantage.",
+    "links": [
+      {
+        "url": "https://lumlabs.io/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "noMiSdYbNQmFDrH2qMvYRXXzb5DUvjyPyDkXadzAPUV",
+    "name": "Nomis",
+    "score": 3,
+    "description": "Home of onchain reputation",
+    "links": [
+      {
+        "url": "https://nomis.cc",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "STPTPuWoyKzbWawom5DBndxkeRFAjW4PzJ2EjL1qeMW",
+    "name": "Solana Portugal",
+    "score": 3,
+    "description": "I run the biggest Solana and crypto community in Portugal. Incubating 50 teams through Colosseum hackathons, and helping 6 go to market.",
+    "links": [
+      {
+        "url": "solanaportugal.com",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "57GUg9QH2LFMV11oaduuoqVJ5qHDEp7EGJ2xgkGiqAum",
+    "name": "anarcheuz",
+    "score": 4,
+    "description": "Web3 smart-contract auditor and senior security researcher. He works on kernel fuzzing and exploitation across Windows/Linux/Android, and applies differential fuzzing in Rust to blockchain stacks. He shares research, PoCs, and tooling—recently around Solana. Notable mentions include syzkaller-based WSL fuzzing and Android PoCs.",
+    "links": [
+      {
+        "url": "https://x.com/anarcheuz",
+        "type": "twitter"
+      }
+    ]
+  },
+  {
+    "vote": "mnvkHm47ZmRKoSWuQZAfXLRiDPiKCq8PWkMWrp1Wwqe",
+    "name": "gripto",
+    "score": 4,
+    "description": "nl_gripto is a security researcher at Asymmetric Research, specializing in Solana and adjacent protocols. His work spans blockchain client analysis, vulnerability discovery, differential fuzzing in Rust, and consensus audits. He shares research, tools, and secure development practices, helping strengthen the infrastructure and reliability of the ecosystem.",
+    "links": [
+      {
+        "url": "https://x.com/nl_gripto",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/nlgripto",
+        "type": "telegram"
+      },
+      {
+        "url": "https://github.com/nlgripto",
+        "type": "github"
+      }
+    ]
+  },
+  {
+    "vote": "G1juWDqojmp5CWDhgRqtXrtpAFw9xqhjmEQAKr9faf4V",
+    "name": "Solana Validator Switch",
+    "score": 4,
+    "description": "Our project is an open-source Solana validator switch utility designed to safely and quickly transition validator identity and vote accounts between different machines. It eliminates manual steps during redeployments, improves uptime, and helps prevent delinquency.\nThe tool is written in Rust, leverages OpenSSH for secure execution, and is available under the MIT license. It's built to be developer-friendly, requiring only SSH access with no external dependencies or network services.",
+    "links": [
+      {
+        "url": "https://github.com/huiskylabs/solana-validator-switch",
+        "type": "github"
+      }
+    ]
+  },
+  {
+    "vote": "jag77EXci8uf5uGmKE5izaYvxBCS5H9U2rxWYh8BUUf",
+    "name": "Jaguar (JagPool)",
+    "score": 4,
+    "description": "JagPool is a Solana stake pool dedicated to promoting geographic decentralization in staking. We strategically delegate stake to validators who contribute to the community, support ecosystem projects or partners, and demonstrate strong performance. To achieve our mission, we're building tools and services that support decentralization. Currently, we’re working on two key projects:\n- Snapshot Service: This tool aims to provide snapshots as close as possible to our validators to improve efficiency and accessibility.\n- Proof of Location: This initiative is designed to verify the physical locations of the IP addresses used by validators, helping us ensure that validators are operating from their claimed geographic regions.\n\nThese tools and services are free and open source. We’ll soon make our repositories public to encourage collaboration with other teams.",
+    "links": [
+      {
+        "url": "https://jagpool.xyz",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/JulIO_jagpool",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "DPmsofVJ1UMRZADgwYAHotJnazMwohHzRHSoomL6Qcao",
+    "name": "JStaking",
+    "score": 4,
+    "description": "JStaking is a high-performance validator on Solana supported by a team of experienced blockchain engineers and DevOps specialists. It consistently complies with the Solana Foundation Delegation Criteria (SFDC), operates with a Jito MEV fee under 10%, and maintains reliable performance across both Mainnet and Testnet.\nOne of the community projects the JStaking Team has developed is the Smart Validator Toolkit (SVT), an all-in-one validator cockpit that automates the bootstrapping and maintenance of Solana nodes. SVT provides:\n- Analytical dashboards and reporting modules\n- Proactive monitoring and alerting\n- On-chain messaging functionality for secure communication",
+    "links": [
+      {
+        "url": "https://jstaking.io/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "5afRnmkFn1pRU9oussqwk1RRBVyoDgUkL16Jz4qNf574",
+    "name": "Kiwi",
+    "score": 4,
+    "description": "Kiwi is a dependable validator on Solana. It focuses on transparency and empowering delegators with data-driven tools. Its platform, Staking.Kiwi, enables delegators to make informed staking decisions by providing:\n- Detailed validator statistics\n- Ongoing validator performance monitoring\n- Validator and delegator analytics reports (view and generate)\n\nIn addition, Kiwi maintains an open-source embed widget that allows projects to integrate validator metrics and staking functionality directly into their websites. Kiwi is SFDC-aligned and operates with a Jito MEV fee under 10%.",
+    "links": [
+      {
+        "url": "https://staking.kiwi/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "DfpdmTsSCBPxCDwZwgBMfjjV8mF8xHkGRcXP8dJBVmrq",
+    "name": "MonkeDAO",
+    "score": 4,
+    "description": "We are the first and most established NFT DAO on Solana.\nAs the first NFT DAO on Solana, MonkeDAO set the standard for decentralized community governance and innovation in the ecosystem.",
+    "links": [
+      {
+        "url": "https://monkedao.io/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "6hcGvZypizjf6PPsxboshZHRqefyQKSG9L8vZqYdm7UY",
+    "name": "SolPush",
+    "score": 4,
+    "description": "Solpush.io is an open-source web toolkit for building, testing, and executing Solana transactions from raw instructions. It helps developers bypass UI limitations on certain websites (even if the transaction is valid on chain), test backend logic, and more. The tool already sees ~1000 unique monthly users and continues to grow. Open-source, distributed under a free license (MIT).\nWe run one of the most active Eastern European Solana onchain analytics communities, with over 1,200 members and steady organic weekly growth. Within this community, we facilitate daily discussions on trading strategies, ecosystem updates, tooling, and onboarding support. We regularly host meetups, publish our own research and analytics, and update the community on developments around Solpush.io as well as our validator operations and ecosystem insights. Hackathon wins and analytics tool (not open-source).\nOur team also built Diver’s Indexer, a powerful analytics tool with real-time and historical Solana data via ClickHouse (avg. query <1s). Recently, Diver’s Indexer earned us 2nd place in two hackathons.\nA recent addition is validator voting data, which we’ll use to create dashboards that offer actionable insights for validator behavior, not just stats. With the Indexer we also manage to deliver lots of Solana research work and are currently expanding its use and building 2 useful tools powered by indexer. Indexer: https://web3-engineering.gitbook.io/web3-engineering-docs/overview/indexer Node operator we operate Diver’s RPC, a real-time Solana node with gRPC Geyser streaming. https://web3-engineering.gitbook.io/web3-engineering-docs/overview/data-streaming-node There is also a Divers RPC node closed TG group with 268 members (can provide link if requested)",
+    "links": [
+      {
+        "url": "http://solpush.io",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/alina_mhrv",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "PoNV8asqSrjTr9vBBW4Y7f5PVWUCzUXByz2AqcTzv1j",
+    "name": "Ponke",
+    "score": 4,
+    "description": "Ponke is a viral, community-powered Solana memecoin project that has organically grown into one of the most recognized and beloved brands in the ecosystem. While Ponke itself is not open-source, it embodies the spirit of decentralization and permissionless creativity that defines Solana culture. From NFT integrations to web3-native content distribution, Ponke acts as a cultural bridge bringing new users, artists, and creators into the Solana ecosystem in a fun, sticky, and impactful way.",
+    "links": [
+      {
+        "url": "https://www.ponke.xyz/",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/metarayz",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "9f7dqiYNBZbgPesAnLeWnKCtxYHSfMg5x1EMZCJwVwG7",
+    "name": "Prompt Logic",
+    "score": 4,
+    "description": "A skip analysis tool that helps validator operators determine the performance of the previous & next leader. Oftentimes, skips occur because the previous leader takes too long or encounters a skip. The project is currently not open source but I plan on open sourcing it fairly soon and adding a CLI tool as well.",
+    "links": [
+      {
+        "url": "https://promptlogic.systems/inspect/search",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/+M9NqjQFfraQzZTZi",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "4YykTGwg94GgHZEPSsQfbaMaEE9HHAHqSuXT65L6C6wf",
+    "name": "Rakurai",
+    "score": 4,
+    "description": "Rakurai is developing a highly efficient Solana client focused on optimizing transaction scheduling to maximize network performance. By improving how transactions are processed and prioritized, Rakurai significantly increases\nSolana’s throughput (TPS) and boosts validator and staker rewards by 30% plus. Leveraging our scheduler tech, we will be launching a low-latency transaction landing service soon. The project is designed to benefit validators, stakers and traders, enabling high efficiency for Internet Capital Markets. Our repo: https://github.com/rakurai-io/rakurai-validator",
+    "links": [
+      {
+        "url": "rakurai.io",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "CTDGxxJBrZVqUUHdHopLn4k4gtc2PCpcM9TB7ZEC4Hu2",
+    "name": "Cointelegraph Decentralization Guardians",
+    "score": 5,
+    "description": "CTDG (Cointelegraph Decentralization Guardians) is an independent infrastructure and research initiative focused on strengthening decentralization across blockchain networks and digital media systems.\nOur team operates validator nodes, contributes to network governance, and develops frameworks for transparent coordination between on-chain data, media communication, and ecosystem participants.\n\nCTDG’s long-term mission is to turn media from a centralized information flow into a verifiable, distributed trust layer for Web3.\nThe project is partially open-source: validator monitoring tools, analytics dashboards, and interoperability scripts are distributed under a MIT License and available for community contribution.\nWe collaborate with network foundations, developers, and infrastructure providers to ensure reliability, compliance, and accessibility within decentralized ecosystems.",
+    "links": [
+      {
+        "url": "https://cointelegraph.com/decentralization-guardians/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "Ha1VoTEPWFQp1wZjbQhBNXJftuHvimu1ruzF3xKYRPDQ",
+    "name": "Turbin3",
+    "score": 5,
+    "description": "We are bridging the talent gap on Solana by training professional developers. Our graduates now constitute over 20% of Solana active devs, with our developers contributing to many open-source projects from Pinnocio, Alpenglow research, vote mode research etc. We have placed over 100 devs in places like Solana Foundation, Anagram, etc. Our developers have also won over 60 hackathon prizes to date and gone on to build things like Surfpool, etc.",
+    "links": [
+      {
+        "url": "https://turbin3.org/",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/bitn8",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "LimeNKYH66uR9BwnrPtxPbpqmkambxHVcutGoSaWPiq",
+    "name": "LimeChain",
+    "score": 5,
+    "description": "LimeChain is a blockchain technology company and long-term contributor to the Solana ecosystem, focused on decentralization, developer experience, and real-world adoption. We operate the first Solana Validator in Bulgaria, serving both as a geographic decentralization node and an R&D platform for testing new protocol features and network optimizations.\n\nOur open-source contributions include:\n- Gimlet - VSCode step debugger for Solana programs (MIT License) - https://marketplace.visualstudio.com/items?itemName=Limechain.gimlet\n- Solana Transaction Lifecycle Visualizer - educational site explaining how Solana transactions work - https://www.solanatransaction.com\n- Codama Dart Renderer - generator for Dart clients from Solana IDLs (Apache 2.0)\n\nAll tools are free and open-source. Together, they introduce new functionality that improves developer productivity, strengthens network resilience, and supports community growth across Solana.",
+    "links": [
+      {
+        "url": "https://limechain.tech",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "BH2PMb9vuHxkVFMMHbH8iudCoBfUoX5tVaHfnEkKJ2gQ",
+    "name": "Bubbles",
+    "score": 6,
+    "description": "Coinbase engineer responsible for the Solana vertical and championing its growth internally as a Tier 1 asset. I was in charge of migrating all Coinbase validators to bare metal from AWS (https://www.coinbase.com/blog/solana-validator-performance-report) and currently manage the entire fleet of validators that compose ~11% of network stake. In parallel, I am building the Solana DEX on Coinbase Retail that is expected to launch by the start of 2026.",
+    "links": [
+      {
+        "url": "https://x.com/s4bs94",
+        "type": "twitter"
+      },
+      {
+        "url": "https://t.me/s4bs94",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "EpicsoqLdDP8qRn3wQRKTSKAXbjK9dUgFfNPRQS77MQD",
+    "name": "Epics DAO",
+    "score": 6,
+    "description": "Our work started with solv, an open-source validator and RPC management tool developed under Epics DAO. Building on this foundation, we created SLV, which enables instant validation and RPC node deployment, and ERPC, a high-quality RPC infrastructure recognized for Stake-Weighted QoS (SWQoS) bandwidth.\nThrough Epics DAO, we further promote open-source development by applying gamification and token economics to address the resource challenges that traditional donation models could not solve.\nThe DAO also develops a Solana-based Web3 card game to broaden user participation and showcase new forms of tokenized economies. All of our tools are open source and distributed under free licenses, ensuring accessibility and community-driven innovation.",
+    "links": [
+      {
+        "url": "https://epics.dev/",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/KishiTheMechanic",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "GA2t11gJcmuZ4y7pShTzgYDkxVaJaVQJqkVUqojhPPsT",
+    "name": "SolBrothers",
+    "score": 6,
+    "description": "Solana community on Telegram. It aggregates ecosystem news and releases, hosts Q&A for users and developers, discusses staking, validators, DeFi/NFT apps, wallets and on-chain tooling, and shares local announcements/events—a practical entry point for Russian speakers seeking help, network updates, and best-practice tips.",
+    "links": [
+      {
+        "url": "https://t.me/SolanaRus",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "CooLbbZy5Xmdt7DiHPQ3ss2uRXawnTXXVgpMS8E8jDzr",
+    "name": "Cavey Cool",
+    "score": 7,
+    "description": "Open-source developer in the Solana ecosystem. The validator’s proceeds enable further research and open-source contributions.",
+    "links": [
+      {
+        "url": "https://github.com/cavemanloverboy/solana-nostd-entrypoint",
+        "type": "github"
+      },
+      {
+        "url": "https://t.me/cavemanloverboy",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "sENda1ZL5hoQUMpWbvRpReEfkrM4F35g9GBXPpYaZ9v",
+    "name": "SendAI Inc.",
+    "score": 7,
+    "description": "SendAI started last year in decembar and at we are working at intersection of crypto x ai.\n\nwe started with https://hackathon.sendai.fun [ largest crypto ai hackathon till date ], then launched https://kit.sendai.fun/ [ over 140K npm downloads till date ] and also launched an oss mcp server, https://mcp.sendai.fun/\n\nall of our efforts have been to promote crypto x ai in solana ecosystem and we've been fairly successful at it.",
+    "links": [
+      {
+        "url": "https://www.sendai.fun",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "CertusDeBmqN8ZawdkxK5kFGMwBXdudvWHYwtNgNhvLu",
+    "name": "Asymmetric Research",
+    "score": 8,
+    "description": "High integrity validation and infrastructure services for web3 ecosystems",
+    "links": [
+      {
+        "url": "https://asymmetric.re",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "SBLZib4npE7svxFA7AsD3ytdQAfYNb39c8zsU82AA2E",
+    "name": "SolBlaze",
+    "score": 8,
+    "description": "SolBlaze is one of the largest and longest-running stake pools on the network, and we have continuously maintained our long-term commitments of helping validators, stimulating DeFi adoption, and supporting the developer ecosystem. Our pool runs on the open-source SPL stake-pool program, and we have contributed to this open-source repository alongside JPool in the past.",
+    "links": [
+      {
+        "url": "https://solblaze.org",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/SolBlazeOrg",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "shft7Fry1js37Hm9wq4dfwcZSp2DyKszeWMvEpjYCQ1",
+    "name": "Blueshift",
+    "score": 0,
+    "description": "Blueshift it's a self-funded, fully free and open-source company focused on improving the education and tooling for Solana developers. On https://learn.blueshift.gg/ you will find the best content on Solana development, all handcrafted with our years of experience as a core developer and educators in the space.\nAdditionally, our core team is composed of some of the most active core contributors for tools (we created most of the tools for programming in sBPF Assembly on Solana), protocols (Mollusk, Pinocchio, ...) and open-source contribution (our open-source example are some of the most used to teach across the entire ecosystem).",
+    "links": [
+      {
+        "url": "http://blueshift.gg/",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/LeoOnSol",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "HMV14UAuULSwqmZhsKHzaVkYAd94iWpEeURgbUegfQLc",
+    "name": "Hello Moon",
+    "score": 9,
+    "description": "Blockchain developer/data platform providing infrastructure, staking, data solutions and dedicated nodes (multi-chain incl. Solana).",
+    "links": [
+      {
+        "url": "https://www.hellomoon.io/",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/+EsnxH05kWExjOGYy",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "sdo2QoiSsPknraeCts5GeBkV3AYDdtuxJ3VpYCS1CxR",
+    "name": "sdo",
+    "score": 1,
+    "description": "A CLI tool which enables operators of Solana Validators to create new or manage existing validators. It comes with a P2P switch over utility for active and backup nodes. The identity switch over process completes in milliseconds. It is open source under MIT license.",
+    "links": [
+      {
+        "url": "https://skip-line.github.io/sdo/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "3jkJVgfz1zrHSy6YLK6g96eTj49kCnDj2i8AbbKLZhkk",
+    "name": "Node1",
+    "score": 1,
+    "description": "Node1 is a low-latency Solana infra provider for HFT, arbitrage, and trading bots. We offer HTTP/HTTPS/HTTPv2/QUIC routing and shred streaming. API keys are free; no charge if tx not included. Not open-source; proprietary, performance-focused system.",
+    "links": [
+      {
+        "url": "node1.me",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA",
+    "name": "STAKR",
+    "score": 1,
+    "description": "ENVY is an Al-powered trading-agent platform that lets anyone launch a self-learning crypto- trading bot in under a minute and list it in a public 'Arena' where other users can deposit and share in its PnL. Today our agents post a 12-month back-tested Sharpe of 4.8 and an annualised return of 727 % on BTC pairs. The validator stake support will let us port ENVY from EVM-centric infra to native Solana:\n- Move our execution layer to top Solana DEXs (Jupiter, Drift)\n- Wrap agent logic in on-chain Solana programs with open APls\n- Publish an SDK so any builder can plug Al signals into their own dApp\n- Run and publicly expose our validator, tightening alignment with network security\n\nBy fusing lightning-fast Solana block times with our reinforcement-learning agents, ENVY will showcase how Al decision-makers can thrive entirely on-chain- setting the stage for a future dedicated 'Al-Agent Chain' anchored to Solana. Envy will release agent-execution program, TypeScript SDK, and baseline LoRA weights under permissive Apache-2.0 licences",
+    "links": [
+      {
+        "url": "https://stakr.space/",
+        "type": "url"
+      },
+      {
+        "url": "https://t.me/stakrspace",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "86Sw9R6ynPmXnHfwUWinXtq1QoF2KHesfQQyZG5r8sXo",
+    "name": "Digital Energy, LLC",
+    "score": 1,
+    "description": "Digital Energy: solo Solana validator (499+ epochs, 11 servers) in Singapore. Live staking portal. 9+ open-source gists. 4 PRs + 11 issues to solana-governance repo (PR merged by SF). digitalSOL LST (#2 Sanctum). 6 Xandeum pNodes (4.8TB). DZ Edge Publisher. NCN governance (1/11).",
+    "links": [
+      {
+        "url": "https://digital-energy.io",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "26RGqX3mezgYDxJnGh94gnMM4L2k9grH1eWcTSCHnaxR",
+    "name": "InfiniteSOL",
+    "score": 1,
+    "description": "Solana Rails is an open-source gem with an MIT license for Ruby on Rails. This gem originates from a gamification project on racingrulesofsailing.org where a Solana meme-coin is used as the currency.",
+    "links": [
+      {
+        "url": "https://github.com/pzupan/solana-rails",
+        "type": "github"
+      },
+      {
+        "url": "https://t.me/pzupan",
+        "type": "telegram"
+      }
+    ]
+  },
+  {
+    "vote": "FLCrbfbwEhFARa8nK9rnZw8BVtKNAuHujh9EhWy5A4U4",
+    "name": "Telegram bot for Solana validators",
+    "score": 1,
+    "description": "Telegram bot for Solana validators. It displays metrics (stake, balance, slots for the current/next epoch, credit rating, Jito rating, SFDP status, DZ status), credit history for 10/30 epochs, allows you to add validators to the list and set alerts, and many other useful features.",
+    "links": [
+      {
+        "url": "https://solanabull.pro/telegram-bot",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "G1EAMrJcvzs5SwqAQRgDTjYBEGrxxJVwNS7qiUtB3akg",
+    "name": "Gleam",
+    "score": 1,
+    "description": "- GleamStake: Carbon-negative validator funding conservation via Mangrove Tree planting.\n*live\n- GleamGive: direct crypto donation platform for 501c3 nonprofits with instant tax receipts.\n*live\n- GleamMarket: Decentralized marketplace for minting and trading tokenized carbon credits. *coming soon",
+    "links": [
+      {
+        "url": "https://gleam.earth/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "3Xn3K5zeTzs4sURj1PCRaF6rvFg2hPgT49B4SiM998f7",
+    "name": "NUFI",
+    "score": 2,
+    "description": "NUFI is a non-custodial wallet that supports Solana and other leading blockchains. NUFI has operated its wallet and validator services since 2021. NUFI is not open-source but is free to use.",
+    "links": [
+      {
+        "url": "https://nu.fi",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "Gvt8s5Bwnhg4G27VbnT1Zkfh7Jsztq6CNvZcc5anPonS",
+    "name": "kevred",
+    "score": 2,
+    "description": "Please see comments for our application.",
+    "links": [
+      {
+        "url": "https://github.com/kevredlabs",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "FCvNkHa4U3yh7AXWGGL2jWLWiSRouR8EtzY5WVTHKTHa",
+    "name": "H2O Nodes & RevTec",
+    "score": 2,
+    "description": "H2O Nodes we've run validators on our own bare metal hardware since 2022, in a data center with no other Solana validators.\n\nWith RevTec.fi, we are building the first staking protocol to allow stakers pure access to block rewards.",
+    "links": [
+      {
+        "url": "h2o-nodes.com, revtec.fi",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "CAf8jfgqhia5VNrEF4A7Y9VLD3numMq9DVSceq7cPhNY",
+    "name": "Chainflow",
+    "score": 2,
+    "description": "We are one of the longest standing validators on Solana, having helped design the Tour de Sol testnet. We are active community contributors and have supported Solana since testnet.",
+    "links": [
+      {
+        "url": "https://chainflow.io/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "BDn3HiXMTym7ZQofWFxDb7ZGQX6GomQzJYKfytTAqd5g",
+    "name": "BetterStakeSol",
+    "score": 2,
+    "description": "BetterStakeSol is a mobile-first staking app for Saga and Seeker, built on the Solana Mobile Stack (MWA + Seed Vault). It enables secure, non-custodial SOL staking in seconds with smart validator selection. Also available on Google Play for broader access.",
+    "links": [
+      {
+        "url": "https://shorturl.at/Clvh2",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "BRAZAtTTzR2Es8c98hJvcngerTEyRGSdgkHU59n4A6GT",
+    "name": "Superteam Brazil",
+    "score": 2,
+    "description": "Superteam Brazil is the official Solana Foundation community program for Brazil. We run hackathons, university bootcamps, and builder grants across 10+ cities. Our validator (STBR) funds all programs, with 100% of commission revenue reinvested into ecosystem public goods and developer education.",
+    "links": [
+      {
+        "url": "https://www.superteam.com.br/en",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "HMk1qny4fvMnajErxjXG5kT89JKV4cx1PKa9zhQBF9ib",
+    "name": "Blocksize",
+    "score": 3,
+    "description": "Blocksize is a Tier 1 Pyth publisher and core infra developer. We are building a Verifiable RPC-NCN for Jito and a stablecoin providing exposure to our oracle/validators, aiming for $100M in liquidity. We’ve open-sourced tools like Credit Tracker and SolanaExporter to secure the network.",
+    "links": [
+      {
+        "url": "https://blocksize.info/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "6hkfqeNAbURk7CmAQsP4Qm6WwHVF4LxHupEvQf7Tkrf1",
+    "name": "Valid Blocks",
+    "score": 3,
+    "description": "Set of dashboards and tools for Solana validators community open source and distributed under a free license. Most known are SVP Dashboard and SVP calculator, used every day by dozens of validators. There are other dashboards like Jito Stakenet, Jito BAM Claims, Marinade SAM or DZ Stake Pool.",
+    "links": [
+      {
+        "url": "https://validblocks.com, https://dashboards.validblocks.com",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "53RJBy7aBGA7Aag6AryxEmBbsHDgwfBWagLrPbGHnfvR",
+    "name": "Vladika",
+    "score": 3,
+    "description": "Vladika is a high-performance Solana validator focused on transparent staking, 0% commission, and 100% MEV distribution. We provide reliable infrastructure, educational content, and staking tools, including a public rewards calculator, to support long-term delegators.",
+    "links": [
+      {
+        "url": "https://vladika.love/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "8zuMRTXThoPTTPLLvaiKiJshLLCqGMt9BdRjjCL19xBc",
+    "name": "DawnLabs",
+    "score": 3,
+    "description": "A company focused on Solana validator operations, infrastructure, and on-chain asset management. We also promote Solana adoption in Japan through free developer education, founder support, and enterprise workshops. Parts of our tooling are open-source and distributed under permissive licenses.",
+    "links": [
+      {
+        "url": "https://www.dawnlabs.tech/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "48oxpSHQkM4sdXUY9NQ8KnEtebzZbyk8uUT7JRdVQNuf",
+    "name": "stake manager",
+    "score": 3,
+    "description": "Stake Manager is an all-in-one app for Solana staking: manage existing stake accounts, explore the validators geo map, review detailed validator data including performance, decentralization, and APY, and compare all Solana LSTs in one place. Everything you need to stake smarter on Solana.",
+    "links": [
+      {
+        "url": "https://stake-manager.net",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh",
+    "name": "Hubra",
+    "score": 4,
+    "description": "Hubra is a next-generation Solana DeFi application that combines the speed and convenience of centralized exchanges with the freedom and security of decentralized finance - all while maintaining 100% non-custodial control of your assets.",
+    "links": [
+      {
+        "url": "https://hubra.app",
+        "type": "url"
+      }
+    ]
+  }
+]
