@@ -1,0 +1,14 @@
+/tmp
+
+# --- Editor / IDE ---
+/.vscode
+/.idea
+*.swp
+*.swo
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+
+.claude
+CLAUDE.md
