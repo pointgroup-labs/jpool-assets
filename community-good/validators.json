@@ -1,5 +1,12 @@
 [
   {
+    "vote": "test ",
+    "name": "test",
+    "score": 0,
+    "description": "test",
+    "links": []
+  }, 
+  {
     "vote": "1oH9rfyrbKoP7ucJ1Zr2HLHmDU8N6G1G6dEuruFsSqy",
     "name": "AINodes",
     "score": 1,
