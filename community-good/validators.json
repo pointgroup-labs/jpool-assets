@@ -840,22 +840,6 @@
     ]
   },
   {
-    "vote": "shft7Fry1js37Hm9wq4dfwcZSp2DyKszeWMvEpjYCQ1",
-    "name": "Blueshift",
-    "score": 0,
-    "description": "Blueshift it's a self-funded, fully free and open-source company focused on improving the education and tooling for Solana developers. On https://learn.blueshift.gg/ you will find the best content on Solana development, all handcrafted with our years of experience as a core developer and educators in the space.\nAdditionally, our core team is composed of some of the most active core contributors for tools (we created most of the tools for programming in sBPF Assembly on Solana), protocols (Mollusk, Pinocchio, ...) and open-source contribution (our open-source example are some of the most used to teach across the entire ecosystem).",
-    "links": [
-      {
-        "url": "http://blueshift.gg/",
-        "type": "url"
-      },
-      {
-        "url": "https://t.me/LeoOnSol",
-        "type": "telegram"
-      }
-    ]
-  },
-  {
     "vote": "HMV14UAuULSwqmZhsKHzaVkYAd94iWpEeURgbUegfQLc",
     "name": "Hello Moon",
     "score": 9,
