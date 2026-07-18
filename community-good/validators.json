@@ -170,16 +170,12 @@
   {
     "vote": "PineDoC593nrX16W8ZLWfF5Evb6otv7fRfZMLjPAHe3",
     "name": "Pine Stake",
-    "score": 1,
-    "description": "Pine Stake is a validator on the Solana blockchain, based in Brazil. Our mission is to strengthen decentralization in underrepresented regions while promoting education and onboarding in Web3. We focus on empowering local communities by providing resources for creators and developers.",
+    "score": 3,
+    "description": "Pine Stake is a Brazil-based Solana validator focused on decentralization and infrastructure. We operate mainnet, testnet, devnet, and Alpenglow nodes, and provide tools like a stakepool dashboard and testnet/devnet faucet to support developers. Our tooling are publicly accessible.",
     "links": [
       {
-        "url": "https://t.me/jotadotsol",
-        "type": "telegram"
-      },
-      {
-        "url": "https://x.com/jotadotsol",
-        "type": "twitter"
+        "url": "https://www.pinestake.com",
+        "type": "url"
       }
     ]
   },
@@ -197,12 +193,12 @@
   },
   {
     "vote": "sagasJDjjAHND4hien3bbo5xXkzCT5Ss6nKjyUJ45aw",
-    "name": "Saga Mobile Dao",
-    "score": 1,
-    "description": "SagaDAO is a community-run DAO built around Solana Mobile (Saga + Seeker devices) that uses validator earnings to fund contributors, test new apps, host community and content events, and accelerate projects building on Solana. Our validator on mainnet is the revenue spine for the DAO — rewards are funneled into working groups, Innovation Labs, and our claim/rewards site (“Unlock”), and IRL content houses/events so we can support builders with real users, and continue as the largest and most sybil resistant DAO on Solana.\n\nIn the last 6 months we formalized three active working groups (Core Team, SagaDAO Alpha Club, Community Working Group) with 16 active contributors. We publish our governance, proposal flow, and contributor structure publicly in the SagaDAO Codex (GitBook above), and we maintain repos for DAO tooling / onboarding. Much of what we build (Unlock, contributor structure, Stake & Seed project incubation, Realms/Align governance flows, IRL and digital community events and content) is intended to uplift and contribute to the solana ecosystem.",
+    "name": "Saga Mobile DAO",
+    "score": 3,
+    "description": "Saga DAO is a community of Solana Saga and Seeker owners (10k+ in discord) and run a validator. We run many programs: U$ER (device-verified app testing and distribution for Solana apps), SagaDAO House (IRL content house with product placement), and SagaDAO TV (daily creator premieres).",
     "links": [
       {
-        "url": "https://sagamobiledao.com/",
+        "url": "https://sagamobiledao.com",
         "type": "url"
       }
     ]
@@ -341,12 +337,12 @@
   },
   {
     "vote": "PUFFiNkUHF2DMfbKeUcYTSQckDDtkswfxZCDv5WQqwp",
-    "name": "Inclusion delays dashboard",
-    "score": 2,
-    "description": "Some issues currently prevent Solana from being more widely adopted by professional traders and institutional investors. One of these is that many validators artificially delay transactions to maximize their revenue. This undermines efforts to position Solana as the most efficient and fastest blockchain.\n\nTo shed light on this issue and measure its impact, we deployed a complex setup that sends transactions to all validators and estimates their inclusion delays.\nThe results are published in a public dashboard.",
+    "name": "Puffin",
+    "score": 6,
+    "description": "The transaction inclusion dashboard uses sophisticated techniques to measure data not published elsewhere: the inclusion delays introduced by the validators and the reordering of transactions within a block.",
     "links": [
       {
-        "url": "https://puffin-validator.xyz/inclusion_delays",
+        "url": "https://puffin-validator.xyz",
         "type": "url"
       }
     ]
@@ -373,12 +369,16 @@
   },
   {
     "vote": "sfo5vA1fFdPRsvqd8qdePtTnK97Qj6Jj3GupEzmNPjJ",
-    "name": "Soltop/Blockline",
-    "score": 2,
-    "description": "Soltop is a real-time analytics tool for Solana, like htop but for programs. It shows CU usage, failure rates, priority fees, and program behavior. It’s currently completly free, but I might create tiers to help with server costs. WIth the same infrastructure I started recently Blockline, which complements Soltop by inspecting intra-slot activity using PoH ticks, exposing MEV behavior and showing who interacted with the same pool right before and after a transaction.",
+    "name": "soltop and blockline",
+    "score": 3,
+    "description": "Soltop is open-source, real-time Solana analytics for programs (CU, fees, failure rates). We also publish freemium MEV tooling with Blockline: free sandwich check at /try, a public validator ranking dashboard, and an upcoming tick-level tx dataset on BigQuery via a Google Cloud partnership.",
     "links": [
       {
-        "url": "https://soltop.sh/",
+        "url": "https://soltop.sh",
+        "type": "url"
+      },
+      {
+        "url": "https://blockline.sh",
         "type": "url"
       }
     ]
@@ -1087,6 +1087,202 @@
     "links": [
       {
         "url": "https://hubra.app",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "avnujiRNoSRe9PcET42DPKznyfYnb2LRaZAsqv6REZo",
+    "name": "avnu",
+    "score": 2,
+    "description": "Solana DC maps every Solana mainnet validator to its physical datacenter, city, and country. HFT teams and operators use it to pick colocation sites that minimise latency to top-stake validators. MIT-licensed, no monetization. Site: solanadc.com — repo: github.com/florian-bellotti/Solana-DC",
+    "links": [
+      {
+        "url": "https://www.solanadc.com/",
+        "type": "url"
+      },
+      {
+        "url": "https://avnu.fi",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "BoNKvwirX136zCjcnayEM4W82vn13RKkjm1Sy3UPBdim",
+    "name": "BONK",
+    "score": 3,
+    "description": "BONK launched on Christmas Day 2022 with one belief: take care of the community, and the community takes care of you. Over one million wallets now hold BONK across DeFi, sports, digital art, and charitable initiatives, with regulated financial products launching over 2025 & 26",
+    "links": [
+      {
+        "url": "https://bonkcoin.com",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "H4QVPxS7napq3NEYxqLhxbKi9nJ8s56dD2EQZGsyZ3sb",
+    "name": "T-STAKE Systems",
+    "score": 2,
+    "description": "I run a Solana validator and work fulltime at DoubleZero. I write protocol RFCs, build monitoring tools, and publish free guides to help others set up validators. All my work is open source. I also contributed to the official Agave validator docs.",
+    "links": [
+      {
+        "url": "https://t-stake.com",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "49DJjUX3cwFvaZD5rCAwubiz7qdRWDez9xmB381XdHru",
+    "name": "Staker Space",
+    "score": 1,
+    "description": "Staker Space builds free Solana staking tools: Staktics, a wallet/validator yield analytics dashboard, and BAM Rewards, a campaign sharing bonus JitoSOL with new native stakers. Staktics is closed and so is BAM is currently private but can be opened.",
+    "links": [
+      {
+        "url": "https://staker.space",
+        "type": "url"
+      },
+      {
+        "url": "https://bam.staker.space",
+        "type": "url"
+      },
+      {
+        "url": "https://staktics.staker.space",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "Defi89YpAhk3Gst1Jpsi3Nhj7yCu5HropESh37SQ2v9g",
+    "name": "Yield Lab",
+    "score": 2,
+    "description": "Yield Labs (yldlab.xyz) Solana-first DeFi research & yield platform: LP discovery, real Jupiter multiply vaults, whale tracker, Bitcoin on-chain signals. Free to use; PRO unlocked by staking 10+ yldSOL, no fiat paywall ( but we do use fiat as a fall back).",
+    "links": [
+      {
+        "url": "https://www.yldlab.xyz/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "BmMVRAVef2qmJ1tJpG3JwRUtnfEiTbvDw9ZeFEi4wE7D",
+    "name": "SolanaTVC (stakely)",
+    "score": 1,
+    "description": "Solana TVC is an open-source real-time validator performance and analytics platform for Solana. It helps operators, delegators, and teams monitor TVC metrics, validator health, upgrades, and network incidents. Public dashboard: solanatvc.com",
+    "links": [
+      {
+        "url": "https://solanatvc.com",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "EBVj3uwSKZpqEb1K267JaPxDQhULVqCy6hYeQqjsPh81",
+    "name": "Titan Analytics",
+    "score": 3,
+    "description": "Titan Analytics runs Solana validator infra and contributes to governance, research, and community. Co-authored the Voting Behavior Study on consensus safety, operate an NCN node for on-chain governance, run Alpenglow cluster hardware, and author Star Atlas DAO proposals. Open and non-commercial.",
+    "links": [
+      {
+        "url": "https://titananalytics.io/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "EATpCzQNs8BzZh1mx1hXMAJm3o1MLXakTXr4UEmcsY7f",
+    "name": "EAT Tribe",
+    "score": 3,
+    "description": "We have several projects from DEV Tooling, to Solana Frameworks, dApps, and more. Almost all are open-sourced, the Framework(s) will soon be audited as well. Our up-coming perps and swap-engine is partially closed source where needed.",
+    "links": [
+      {
+        "url": "https://eatsol.online",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "mNyQrNRYAuL2CwNCGmCsmwj9EcG88Sf8hs5rCirZaUr",
+    "name": "WinStake Labs Solana Tools Hub",
+    "score": 2,
+    "description": "A curated, open-source hub of under-the-radar community tools for Solana validators and delegators, grouped by real operating use cases: analytics, monitoring, pools, calculators and utilities. Many are built by the community itself and not promoted in mainstream channels. Public and open-source.",
+    "links": [
+      {
+        "url": "https://winstakelabs.com/tools",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "ACCRENAtboR1MyyoiPvwNZNkjt1GcLARrACh6hZXdddF",
+    "name": "Accretion",
+    "score": 4,
+    "description": "Accretion does security research and we release public good tools for solana developers and researchers.\nWe have a blog including many developer tips and security research and tools like:\nsdr.accretion.xyz\nsimd.wtf\nhttps://publish.obsidian.md/sos",
+    "links": [
+      {
+        "url": "https://accretion.xyz/blog",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "5iJDEVRi1nMLwKAWhYbEokZnvBAe15rgFaHGkggVEP9z",
+    "name": "Stardust Staking and Solutions",
+    "score": 2,
+    "description": "Stardust Staking is a non-custodial validator (Staking Rewards verified, AA) running Solana at 0% commission. Public-good work: StarPool, a pool decentralising stake to underrepresented regions; Stardust Academy, free validator onboarding/mentorship; and open-source Solana tooling",
+    "links": [
+      {
+        "url": "https://starduststaking.com",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "o27rnqfNHPwHsRp2xPXXwWzn2q2dGxn6UD4Rt5KMU5h",
+    "name": "Stake.Cake",
+    "score": 1,
+    "description": "Open-source work: Agave PRs — Alpenglow codec adversarial tests (#13100), BLS cert corruption tests (#13101); Validator Alert Bot — Telegram monitoring for operators (github.com/ataridev/Solana-Validator-Alert-bot); validator profit calculator (stakecake.com/calculator).",
+    "links": [
+      {
+        "url": "https://stakecake.com/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "ReFiSbuMcV8PMYcpvm9RmHDhF9HR3qyxsHZgf359NUx",
+    "name": "ReFi Hub",
+    "score": 2,
+    "description": "ReFi Hub tokenizes operating energy infrastructure on Solana. Investors fund solar projects via USDC and earn cashflow as electricity is sold. $491K deployed, 14% realized IRR, 20+ months of on-chain distributions. ReFi Hub code is not open source, but new VOLT code will be.",
+    "links": [
+      {
+        "url": "https://www.refihub.io/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "ENVaKoD7ytn58xJ8s5htFfQ8hqQt1G9dcPUDqbSwVcgB",
+    "name": "WEB34EVER & POSTHUMAN",
+    "score": 2,
+    "description": "WEB34EVER & POSTHUMAN is a joint validator and public-goods initiative. We fund and maintain free, open-source Solana tools for safer deployments, version compliance, Marinade SAM monitoring, and tower-safe low-downtime hot-swaps, alongside operator education.",
+    "links": [
+      {
+        "url": "https://posthuman.digital",
+        "type": "url"
+      },
+      {
+        "url": "https://web34ever.com/",
+        "type": "url"
+      }
+    ]
+  },
+  {
+    "vote": "AVD61fbwxDGuLGCanPWQPxRjdqYk3icssz5u7JH8kbta",
+    "name": "Raiku",
+    "score": 2,
+    "description": "Raiku introduces new Solana infrastructure for predictable transaction inclusion through AOT and JIT blockspace reservations. It enables apps, validators, and institutions to land transactions with more certainty while creating new validator revenue lines.",
+    "links": [
+      {
+        "url": "https://raiku.com",
         "type": "url"
       }
     ]
