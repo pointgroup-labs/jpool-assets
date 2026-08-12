@@ -1092,7 +1092,7 @@
     ]
   },
   {
-    "vote": "avnujiRNoSRe9PcET42DPKznyfYnb2LRaZAsqv6REZo",
+    "vote": "avnu2RYyQbLL4LQnwi7ismwDNaegnXeUEzvZb2FUptF",
     "name": "avnu",
     "score": 2,
     "description": "Solana DC maps every Solana mainnet validator to its physical datacenter, city, and country. HFT teams and operators use it to pick colocation sites that minimise latency to top-stake validators. MIT-licensed, no monetization. Site: solanadc.com — repo: github.com/florian-bellotti/Solana-DC",
