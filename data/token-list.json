@@ -4,7 +4,7 @@
         "name": "Wrapped SOL",
         "symbol": "SOL",
         "decimals": 9,
-        "icon": "/img/sol.png",
+        "icon": "/data/img/token/sol.png",
         "token_address": "So11111111111111111111111111111111111111111"
     },
     {
@@ -12,7 +12,7 @@
         "name": "Wrapped SOL",
         "symbol": "SOL",
         "decimals": 9,
-        "icon": "/img/sol.png",
+        "icon": "/data/img/token/sol.png",
         "token_address": "So11111111111111111111111111111111111111112"
     },
     {
@@ -20,7 +20,7 @@
         "name": "JPOOL Solana Token",
         "symbol": "JSOL",
         "decimals": 9,
-        "icon": "/img/jsol.svg",
+        "icon": "/data/img/token/jsol.svg",
         "token_address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn"
     },
     {
@@ -28,7 +28,7 @@
         "name": "USD Coin",
         "symbol": "USDC",
         "decimals": 6,
-        "icon": "/img/usdc.png",
+        "icon": "/data/img/token/usdc.png",
         "token_address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
     },
     {
@@ -36,7 +36,7 @@
         "name": "USDT",
         "symbol": "USDT",
         "decimals": 6,
-        "icon": "/img/usdt.svg",
+        "icon": "/data/img/token/usdt.svg",
         "token_address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB"
     }
 ]
