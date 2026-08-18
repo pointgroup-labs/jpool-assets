@@ -2,6 +2,8 @@
 
 `validators.json` — JPool Community Good validators with reviewer scores.
 
+Public URL: `https://assets.jpool.one/community-good/validators.json`
+
 ## Schema
 
 ```json
