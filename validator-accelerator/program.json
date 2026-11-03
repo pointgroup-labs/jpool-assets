@@ -1,0 +1,57 @@
+{
+  "enabled": true,
+  "applicationFormUrl": "",
+  "duration": 30,
+  "active": {
+    "voteAccount": "5afRnmkFn1pRU9oussqwk1RRBVyoDgUkL16Jz4qNf574",
+    "amount": 10000,
+    "startedAt": "2026-11-01",
+    "endsAt": "2026-12-01"
+  },
+  "queue": [
+    {
+      "voteAccount": "4QQqaHgJfrpaS8aU47CkmgAMimGnxiphgwhqzQrotjQU",
+      "approvedAt": "2026-10-25"
+    },
+    {
+      "voteAccount": "FXRu5NA4ouLGFuZNNWZFwwnvQz9zE7JCX3D23RJTc2NU",
+      "approvedAt": "2026-10-28"
+    },
+    {
+      "voteAccount": "BfxZj7ckfRGHxByn7aHgH2puyXhfjAUvULtRjJo4rd8C",
+      "approvedAt": "2026-10-30"
+    }
+  ],
+  "history": [
+    {
+      "voteAccount": "PEBBLETUXFPdrwm5heff4x1VsrypGS1fNSRPEF6LiZL",
+      "amount": 5000,
+      "startedAt": "2026-09-01",
+      "endedAt": "2026-09-28",
+      "reason": "external_delegation"
+    },
+    {
+      "voteAccount": "3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD",
+      "amount": 10000,
+      "startedAt": "2026-10-01",
+      "endedAt": "2026-10-31",
+      "reason": "expired"
+    },
+    {
+      "voteAccount": "pENgUh4K9zNacyU3PXVE9KugW98XCqZsWpEvA8d8wzX",
+      "amount": 10000,
+      "startedAt": "2026-08-01",
+      "endedAt": "2026-08-08",
+      "reason": "violation",
+      "details": "Validator commission increased to 100% during the delegation period."
+    },
+    {
+      "voteAccount": "GvZEwtCHZ7YtCkQCaLRVEXsyVvQkRDhJhQgB6akPme1e",
+      "amount": 7500,
+      "startedAt": "2026-07-01",
+      "endedAt": "2026-07-13",
+      "reason": "terminated",
+      "details": "Delegation ended early due to prolonged validator downtime."
+    }
+  ]
+}

@@ -8,6 +8,7 @@ Base URL for published assets: `https://assets.jpool.one/`
 
 - `logo.svg` — JPool logo
 - `community-good/` — Community Good validators list ([details](./community-good/README.md))
+- `validator-accelerator/` — Validator Accelerator program data ([details](./validator-accelerator/README.md))
 - `data/token-list.json` — token metadata used by JPool integrations
 - `data/img/logo/` — logo assets
 - `data/img/token/` — token icons
@@ -21,6 +22,7 @@ Base URL for published assets: `https://assets.jpool.one/`
 
 - Token list: `https://assets.jpool.one/data/token-list.json`
 - Community Good validators: `https://assets.jpool.one/community-good/validators.json`
+- Validator Accelerator program: `https://assets.jpool.one/validator-accelerator/program.json`
 
 ## Token List Schema
 
