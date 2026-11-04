@@ -1,6 +1,6 @@
 # Validator Accelerator data
 
-`program.json` is the public data source for JPool's temporary stake delegation program for newly launched Solana validators. The program appears as **Validator Bootstrap** on the JPool website: one validator can receive JPool stake while building an operating history, and approved validators wait in a queue for the next slot.
+`program.json` is the public data source for JPool's temporary stake delegation program for newly launched Solana validators. The program appears as **Validator Accelerator** on the JPool website: one validator can receive JPool stake while building an operating history, and approved validators wait in a queue for the next slot.
 
 Public URL: `https://assets.jpool.one/validator-accelerator/program.json`
 
@@ -76,7 +76,7 @@ All dates are strings in `YYYY-MM-DD` format and represent UTC calendar dates.
 | --- | --- | --- |
 | `external_delegation` | Graduated | JPool support ended because the validator received sufficient stake from outside JPool. |
 | `expired` | Completed | The planned support period finished. |
-| `violation` | Violation | The validator breached a delegation rule. Explain the breach in `details`. |
+| `violation` | Disqualified | The validator breached a delegation rule. Explain the breach in `details`. |
 | `terminated` | Terminated | Support ended early for another reason, such as prolonged downtime. Explain the reason in `details`. |
 
 The website recognizes these four codes. A new `reason` requires a corresponding outcome label and styling in the website; otherwise the raw code is shown.
